@@ -10,8 +10,8 @@
 ======================================*/
 
 body {
-  background-color: #222323;
-  color: #ffffff;
+    background-color: #022140;
+    color: #ffffff;
 }
 
 h1,
@@ -136,9 +136,9 @@ a:hover {
 /*--/ Title s /--*/
 
 .title-s {
-  font-weight: 600;
-  color: #b0b0b0;
-  font-size: 1.1rem;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 1.1rem;
 }
 
 /*--/ Title A /--*/
@@ -158,10 +158,10 @@ a:hover {
 }
 
 .line-mf {
-  width: 40px;
-  height: 5px;
-  background-color: #0078ff;
-  margin: 0 auto;
+    width: 40px;
+    height: 5px;
+    background-color: #ACA885;
+    margin: 0 auto;
 }
 
 /*--/ Title Left /--*/
@@ -175,14 +175,14 @@ a:hover {
   position: relative;
 }
 
-.title-left:before {
-  content: '';
-  position: absolute;
-  height: 3px;
-  background-color: #0078ff;
-  width: 100px;
-  bottom: -12px;
-}
+    .title-left:before {
+        content: '';
+        position: absolute;
+        height: 3px;
+        background-color: #9ad589;
+        width: 100px;
+        bottom: -12px;
+    }
 
 /*------/ Box /------*/
 
@@ -191,12 +191,12 @@ a:hover {
 }
 
 .box-shadow-full {
-  padding: 3rem 1.25rem;
-  position: relative;
-  background-color: #333232;
-  margin-bottom: 3rem;
-  z-index: 2;
-  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+    padding: 3rem 1.25rem;
+    position: relative;
+    background-color: #265077;
+    margin-bottom: 3rem;
+    z-index: 2;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 
 /*------/ Socials /------*/
@@ -697,7 +697,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #5a5757c9;
+  background-color: #55be5b;
 }
 
 /*======================================
